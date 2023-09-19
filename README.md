@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack | Backend | Frontend Developer.
 -----------------------------------------
 
-Having graduated in Systems Analysis and Development from Fatene since 2017, Istarted my career as Remote Support at Hapvida. In 2022 I received the proposalto work at Bitcapital. In this last experience I worked more directly with APIs(Postman), log analysis tools (Datadog and GCP) and Typescript scripts(VisualStudio). My professional ambition is to advance my career as a Backend and FrontendDeveloper.
+Having graduated in Systems Analysis and Development from Fatene since 2017, Istarted my career as Remote Support at Hapvida. In 2022 I received the proposal to work at Bitcapital. In this last experience I worked more directly with APIs(Postman), log analysis tools (Datadog and GCP) and Typescript scripts(VisualStudio). My professional ambition is to advance my career as a Backend and Frontend Developer.
 
 * 🌍  I'm based in Fortaleza, Ceará, Brasil.
 * ✉️  You can contact me at [othon.ab@hotmail.com](mailto:othon.ab@hotmail.com)
