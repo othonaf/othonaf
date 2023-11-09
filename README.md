@@ -9,7 +9,7 @@ Having graduated in Systems Analysis and Development from Fatene since 2017, and
 * 🌍  I'm based in Fortaleza, CE - Brasil
 * 🖥️  See my portfolio at [GitHub](http://github.com/othonaf)
 * ✉️  You can contact me at [othon.ab@hotmail.com](mailto:othon.ab@hotmail.com)
-* 🧠  I'm learning Python | Arduino
+* 🧠  I'm learning Python | AWS
 * 🤝  I'm open to collaborating on Javascript, Typescript, Node.js, Express.js and SQL.
 
 ### Skills
