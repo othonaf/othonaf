@@ -7,7 +7,7 @@ Fullstack | Backend | Frontend Developer.
 Having graduated in Systems Analysis and Development from Fatene since 2017, and I have a specialization in fullstack programming. I started my career as Remote Support at Hapvida. In 2022 I received the proposal to work at Bitcapital. In this last experience I worked more directly with APIs(Postman), log analysis tools (Datadog and GCP) and Typescript scripts(VisualStudio). My professional ambition is to advance my career as a Backend and Frontend Developer.
 
 * 🌍  I'm based in Fortaleza, CE - Brasil
-* 🖥️  See my portfolio at [Here](https://bit.ly/3G40f7S)
+* 🖥️  See my portfolio at [Here](https://portfolio-othons-projects.vercel.app)
 * ✉️  You can contact me at [othon.ab@hotmail.com](mailto:othon.ab@hotmail.com)
 * 🧠  I'm learning Python | AWS
 * 🤝  I'm open to collaborating on Javascript, Typescript, Node.js, Express.js and SQL.
